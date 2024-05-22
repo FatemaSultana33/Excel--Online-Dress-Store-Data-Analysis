@@ -7,6 +7,8 @@ Online Dress Store wants to create an annual sales report for 2023. So that, 
 #### Raw Data: 
 Excel workbook “Raw Data” contains the data of the Dress Store.
 
+![Raw data](img/raw.png)
+
 #### Complete data analytics project:
 The Excel workbook named “Dress Store Data Analysis” contains data that has been cleaned, processed, and analyzed, and includes dashboard creation.
 
