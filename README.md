@@ -7,7 +7,7 @@ Online Dress Store wants to create an annual sales report for 2023. So that, 
 #### Raw Data: 
 Excel workbook “Raw Data” contains the data of the Dress Store.
 
-![Raw data] <img src="path/to/image.png" width="300" height="200">
+![Raw data] <img src="path/to/img/image.png" width="300" height="200">
 
 ![Raw data](img/raw.png)
 
