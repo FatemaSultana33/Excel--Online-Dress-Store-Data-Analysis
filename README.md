@@ -17,6 +17,7 @@ The Excel workbook named “Dress Store Data Analysis” contains data that has 
 
 ##### 1. Data Cleaning:
  <img src="img/datacleaning.png" width="700" height="300">
+ 
 * Import Data: Loading data from Excel file into Excel.
 * Identify and Handle Missing Values: Using functions like IFERROR, ISNA, and VLOOKUP to find and fill or remove missing data.
 * Remove Duplicates: Utilizing Excel’s built-in "Remove Duplicates" feature.
@@ -24,12 +25,14 @@ The Excel workbook named “Dress Store Data Analysis” contains data that has 
 
 ##### 2. Data Processing:
  <img src="img/datap.png" width="700" height="300">
+ 
 * Data Transformation: Using formulas to create "Age Group" and "Month" columns.
 * Filtering and Sorting: Appling filters and sorting data to identify key trends.
 * Pivot Tables: Creating Pivot Tables for summarizing data and deriving insights.
 
 ##### 3. Data Analysis:
  <img src="img/dataan.png" width="700" height="300">
+ 
 * Data Visualization: Creating charts (bar, pie) to visualize data.
 * Trend Analysis: Utilizing linear regression and trendlines to analyze trends over time.
   
