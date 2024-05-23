@@ -11,7 +11,7 @@ Excel workbook “__Raw Data__” contains the data of the Dress Store.
 
 
 #### Complete data analytics project:
-The Excel workbook named “Dress Store Data Analysis” contains data that has been cleaned, processed, and analyzed, and includes dashboard creation.
+The Excel workbook named “__Dress Store Data Analysis__” contains data that has been cleaned, processed, and analyzed, and includes dashboard creation.
 
 #### Project Steps:
 
