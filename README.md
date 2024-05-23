@@ -16,24 +16,24 @@ The Excel workbook named “Dress Store Data Analysis” contains data that has 
 #### Project Steps:
 
 ##### 1. Data Cleaning:
-![Data Cleaning] <img src="img/datacleaning.png" width="700" height="300">
+ <img src="img/datacleaning.png" width="700" height="300">
 * Import Data: Loading data from Excel file into Excel.
 * Identify and Handle Missing Values: Using functions like IFERROR, ISNA, and VLOOKUP to find and fill or remove missing data.
 * Remove Duplicates: Utilizing Excel’s built-in "Remove Duplicates" feature.
 * Data Replacing: Replacing inaccurate data with suitable values.
 
 ##### 2. Data Processing:
-![Data Processing] <img src="img/datap.png" width="700" height="300">
+ <img src="img/datap.png" width="700" height="300">
 * Data Transformation: Using formulas to create "Age Group" and "Month" columns.
 * Filtering and Sorting: Appling filters and sorting data to identify key trends.
 * Pivot Tables: Creating Pivot Tables for summarizing data and deriving insights.
 
 ##### 3. Data Analysis:
-![Data Analysis] <img src="img/dataan.png" width="700" height="300">
+ <img src="img/dataan.png" width="700" height="300">
 * Data Visualization: Creating charts (bar, pie) to visualize data.
 * Trend Analysis: Utilizing linear regression and trendlines to analyze trends over time.
   
-![Data Analysis] <img src="img/datav.png" width="700" height="300">
+ <img src="img/datav.png" width="700" height="300">
 
 ##### 4. Report ( Interactive Dashboard) Creation:
 * Design Layout: Planning the dashboard layout for clarity and ease of use.
@@ -47,36 +47,36 @@ The Excel workbook named “Dress Store Data Analysis” contains data that has 
 
 #### Data analysis depending on various aspects:
 ##### Comparing sales and orders using a single chart. The month with the highest sales and orders is identified:
-![Comparing sales and orders using a single chart. The month with the highest sales and orders is identified] <img src="img/ordervssales.png" width="700" height="300">
+<img src="img/ordervssales.png" width="700" height="300">
 
 ##### Women purchased more than men in 2023:
-![Women purchased more than men in 2023] <img src="img/menvswomen.png" width="700" height="300">
+<img src="img/menvswomen.png" width="700" height="300">
 
 ##### Different order status in 2023:
-![Different order status in 2023] <img src="img/orderstatus.png" width="700" height="300">
+<img src="img/orderstatus.png" width="700" height="300">
 
 ##### Listing top 5 states contributing to the sales:
-![Listing top 5 states contributing to the sales] <img src="img/salestop5states.png" width="700" height="300">
+<img src="img/salestop5states.png" width="700" height="300">
 
 ##### Relation between age and gender based on the number of orders:
-![Relation between age and gender based on the number of orders] <img src="img/agevsgender.png" width="700" height="300">
+<img src="img/agevsgender.png" width="700" height="300">
 
 ##### The channel contributing to maximum sales is identified:
-![The channel contributing to maximum sales is identified] <img src="img/orderschannels.png" width="700" height="300">
+ <img src="img/orderschannels.png" width="700" height="300">
 
 
 #### Store Annual Report 2024:
 ##### Annual report for all months, channels, and categories:
-![Annual report for all months, channels, and categories] <img src="img/t1.png" width="700" height="300">
+<img src="img/t1.png" width="700" height="300">
 
 ##### Annual report for all channels and categories for each month:
-![Annual report for all channels and categories for each month] <img src="img/t2.png" width="700" height="300">
+ <img src="img/t2.png" width="700" height="300">
 
 ##### Annual report for all months and categories for each channel:
-![Annual report for all months and categories for each channel] <img src="img/t3.png" width="700" height="300">
+ <img src="img/t3.png" width="700" height="300">
 
 ##### Annual report for all months and channels for each category:
-![Annual report for all months and channels for each category] <img src="img/t4.png" width="700" height="300">
+ <img src="img/t4.png" width="700" height="300">
 
 #### Sample Insights:
 * Women are more likely to buy compared to men (~64%)
