@@ -15,15 +15,15 @@ The Excel workbook named “__Dress Store Data Analysis__” contains data that 
 
 #### Project Steps:
 
-##### 1. Data Cleaning:
+#### 1. Data Cleaning:
  <img src="img/datacleaning.png" width="700" height="300">
  
-###### * Import Data: Loading data from Excel file into Excel.
+* Import Data: Loading data from Excel file into Excel.
 * Identify and Handle Missing Values: Using functions like IFERROR, ISNA, and VLOOKUP to find and fill or remove missing data.
 * Remove Duplicates: Utilizing Excel’s built-in "Remove Duplicates" feature.
 * Data Replacing: Replacing inaccurate data with suitable values.
 
-##### 2. Data Processing:
+#### 2. Data Processing:
  <img src="img/datap.png" width="700" height="300">
  
 * Data Transformation: Using formulas to create "Age Group" and "Month" columns.
